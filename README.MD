@@ -1,4 +1,4 @@
-# Project Title
+# A simple ZKP Schnorr's proof implementation on Raspberry Pi
 
 **Author:** Amil Shrivastava
 
