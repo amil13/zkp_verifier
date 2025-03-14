@@ -24,3 +24,4 @@ This project is a simple implementation of Schnorr's Zero-Knowledge Proof (ZKP) 
  ```
 
 - To run it on Raspberry Pi, find the zkp_verifier in the following location and transfer it on to the pi and then execute it
+'/target/armv7-unknown-linux-gnueabihf/'
